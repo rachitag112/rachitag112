@@ -1,7 +1,7 @@
-<p text-align = "center"><img src = "https://user-images.githubusercontent.com/76098066/186107450-2f4eed66-d758-40bc-9414-f4049f4c5386.png" alt = "My Banner"></p>
+<p align = "center"><img src = "https://user-images.githubusercontent.com/76098066/186107450-2f4eed66-d758-40bc-9414-f4049f4c5386.png" alt = "My Banner"></p>
 
-<h3 text-align = "center">Hi there 👋, I'm Rachit</h3>
-<h4 text-align = "center">Just learning everyday😀</h4>
+<h3 align = "center">Hi there 👋, I'm Rachit</h3>
+<h4 align = "center">Just learning everyday😀</h4>
 
 ## 🤝 Connect with Me
 
