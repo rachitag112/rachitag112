@@ -1,7 +1,7 @@
-<center><img src = "https://user-images.githubusercontent.com/76098066/186107450-2f4eed66-d758-40bc-9414-f4049f4c5386.png" alt = "My Banner"></center>
+<p text-align = "center"><img src = "https://user-images.githubusercontent.com/76098066/186107450-2f4eed66-d758-40bc-9414-f4049f4c5386.png" alt = "My Banner"></p>
 
-<h3><center>Hi there 👋, I'm Rachit</center></h3>
-<h4><center>Just learning everyday😀</center></h4>
+<h3 text-align = "center">Hi there 👋, I'm Rachit</h3>
+<h4 text-align = "center">Just learning everyday😀</h4>
 
 ## 🤝 Connect with Me
 
@@ -60,6 +60,6 @@
 
 ## 📈 GitHub Stats
 ![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachitag112&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitag112&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitag112&layout=compact)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rachitag112)
