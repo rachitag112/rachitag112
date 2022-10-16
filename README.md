@@ -65,4 +65,4 @@
 ![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachitag112&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitag112&layout=compact)
 
-![](https://visitor-badge.glitch.me/badge?page_id=rachitag112)
+![](https://komarev.com/ghpvc/?username=rachitag112)
