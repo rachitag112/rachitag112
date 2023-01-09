@@ -67,5 +67,6 @@
 
 ## 📈 Quine Stats
 <a href="https://quine.sh/profile/rachitag112"><img src="https://stats.quine.sh/rachitag112/github" alt="Rachit Agarwal's GitHub stats" width="840px"></a>
+[![Rachit Agarwal's Stack Overflow achievements](https://stats.quine.sh/rachitag112/stack-overflow)](https://quine.sh/profile/rachitag112)
 
 ![](https://komarev.com/ghpvc/?username=rachitag112)
