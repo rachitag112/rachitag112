@@ -65,4 +65,7 @@
 ![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachitag112&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitag112&layout=compact)
 
+## 📈 Quine Stats
+<a href="https://quine.sh/profile/rachitag112"><img src="https://stats.quine.sh/rachitag112/github" alt="Rachit Agarwal's GitHub stats" width="840px"></a>
+
 ![](https://komarev.com/ghpvc/?username=rachitag112)
