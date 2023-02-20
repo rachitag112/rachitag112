@@ -3,13 +3,15 @@
 <h3 align = "center">Hi there 👋, I'm Rachit</h3>
 <h4 align = "center">Just learning everyday😀</h4>
 
-## 🤝 Connect with Me
+<div id="socials" align="center">
+     <a href = "https://www.linkedin.com/in/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728913-a66ef85f-4644-4e3a-b847-98309c8cff42.svg"></a>
+     <a href = "https://twitter.com/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728908-f1a9919a-f4b2-4262-9515-683e77f8aabf.svg"></a>
+     <a href = "https://www.instagram.com/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728901-a4d90f01-2cdf-45c1-a1b3-73467c3d2698.svg"></a>
+     <a href = "https://discord.com/users/624599399611236363"><img src = "https://user-images.githubusercontent.com/76098066/186728911-5ff0f2bd-8b45-4653-999b-dfba73945cfd.svg"></a>
 
-<a href = "https://www.linkedin.com/in/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728913-a66ef85f-4644-4e3a-b847-98309c8cff42.svg"></a>
-<a href = "https://twitter.com/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728908-f1a9919a-f4b2-4262-9515-683e77f8aabf.svg"></a>
-<a href = "https://www.instagram.com/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728901-a4d90f01-2cdf-45c1-a1b3-73467c3d2698.svg"></a>
-<a href = "https://discord.com/users/624599399611236363"><img src = "https://user-images.githubusercontent.com/76098066/186728911-5ff0f2bd-8b45-4653-999b-dfba73945cfd.svg"></a>
-
+![](https://komarev.com/ghpvc/?username=rachitag112)
+</div>
+  
 ## 💼 Technical Skills
 
 #### Languages & Frameworks
@@ -62,11 +64,9 @@
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ## 📈 GitHub Stats
-![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachitag112&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitag112&layout=compact)
+![Total contributions](https://github-readme-streak-stats.herokuapp.com/?user=rachitag112)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitag112&layout=compact&theme=vision-friendly-dark)
 
 ## 📈 Quine Stats
-<a href="https://quine.sh/profile/rachitag112"><img src="https://stats.quine.sh/rachitag112/github" alt="Rachit Agarwal's GitHub stats" width="840px"></a>
-[![Rachit Agarwal's Stack Overflow achievements](https://stats.quine.sh/rachitag112/stack-overflow)](https://quine.sh/profile/rachitag112)
-
-![](https://komarev.com/ghpvc/?username=rachitag112)
+<a href="https://quine.sh/profile/rachitag112"><img src="https://stats.quine.sh/rachitag112/github" alt="Rachit Agarwal's GitHub stats" width="340px"></a>
+![Rachit Agarwal's Stack Overflow achievements](https://stats.quine.sh/rachitag112/stack-overflow)
