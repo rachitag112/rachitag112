@@ -5,8 +5,8 @@
 
 <div id="socials" align="center">
      <a href = "https://www.linkedin.com/in/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728913-a66ef85f-4644-4e3a-b847-98309c8cff42.svg"></a>
-     <a href = "https://twitter.com/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728908-f1a9919a-f4b2-4262-9515-683e77f8aabf.svg"></a>
-     <a href = "https://www.instagram.com/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728901-a4d90f01-2cdf-45c1-a1b3-73467c3d2698.svg"></a>
+     <a href = "https://www.instagram.com/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728908-f1a9919a-f4b2-4262-9515-683e77f8aabf.svg"></a>
+     <a href = "https://twitter.com/rachitag112" ><img src = "https://user-images.githubusercontent.com/76098066/186728901-a4d90f01-2cdf-45c1-a1b3-73467c3d2698.svg"></a>
      <a href = "https://discord.com/users/624599399611236363"><img src = "https://user-images.githubusercontent.com/76098066/186728911-5ff0f2bd-8b45-4653-999b-dfba73945cfd.svg"></a>
 
 ![](https://komarev.com/ghpvc/?username=rachitag112)
