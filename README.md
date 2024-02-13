@@ -63,10 +63,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-## 📈 GitHub Stats
-![Total contributions](https://github-readme-streak-stats.herokuapp.com/?user=rachitag112)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachitag112&layout=compact&theme=vision-friendly-dark)
-
 ## 📈 Quine Stats
-<a href="https://quine.sh/profile/rachitag112"><img src="https://stats.quine.sh/rachitag112/github" alt="Rachit Agarwal's GitHub stats" width="340px"></a>
-![Rachit Agarwal's Stack Overflow achievements](https://stats.quine.sh/rachitag112/stack-overflow)
+[![rachitag112's GitHub | Stats](https://stats.quine.sh/rachitag112/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
+[![rachitag112's GitHub | Dependencies](https://stats.quine.sh/rachitag112/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
+[![rachitag112's GitHub | Topics Over Time](https://stats.quine.sh/rachitag112/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
+[![rachitag112's GitHub | Languages Over Time](https://stats.quine.sh/rachitag112/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
