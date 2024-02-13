@@ -66,5 +66,5 @@
 ## 📈 Quine Stats
 [![rachitag112's GitHub | Stats](https://stats.quine.sh/rachitag112/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
 [![rachitag112's GitHub | Dependencies](https://stats.quine.sh/rachitag112/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
-[![rachitag112's GitHub | Topics Over Time](https://stats.quine.sh/rachitag112/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
-[![rachitag112's GitHub | Languages Over Time](https://stats.quine.sh/rachitag112/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
+[![rachitag112's GitHub | Topics Over Time](https://stats.quine.sh/rachitag112/topics-over-time?theme=dark =x200)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
+[![rachitag112's GitHub | Languages Over Time](https://stats.quine.sh/rachitag112/languages-over-time?theme=dark =x200)](https://quine.sh?utm_source=widgets&utm_campaign=rachitag112)
